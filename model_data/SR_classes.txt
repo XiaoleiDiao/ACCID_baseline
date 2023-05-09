@@ -1,0 +1,6 @@
+1_Single
+2_UD
+3_LR
+4_Triangle
+5_S
+6_Multiple
